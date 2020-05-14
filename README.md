@@ -11,5 +11,6 @@ forkify is a website developed using AJAX calls from API
 
 **API Used :** [forkify-API](http://forkify-api.herokuapp.com/)
 
+**Note :** Configuration details can be found in *package.json*
 
 *Designed by Mahith Chigurupati*
